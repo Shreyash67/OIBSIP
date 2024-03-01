@@ -1,0 +1,4 @@
+[2024-02-29 23:30:05,276] 12 root - INFO - Splitting into x and y
+[2024-02-29 23:30:05,279] 22 root - INFO - Splitting the data into train and test
+
+[2024-02-29 23:30:05,331] 8 root - INFO - No need to transform the data

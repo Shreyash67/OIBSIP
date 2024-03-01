@@ -1,0 +1,6 @@
+setup.py
+CarPricePrediction.egg-info/PKG-INFO
+CarPricePrediction.egg-info/SOURCES.txt
+CarPricePrediction.egg-info/dependency_links.txt
+CarPricePrediction.egg-info/requires.txt
+CarPricePrediction.egg-info/top_level.txt

@@ -1,0 +1,19 @@
+[2024-03-01 00:00:38,707] 13 root - INFO - Splitting into x and y
+[2024-03-01 00:00:38,712] 24 root - INFO - Splitting the data into train and test
+
+[2024-03-01 00:00:38,916] 13 root - INFO - Splitting into x and y
+[2024-03-01 00:00:38,921] 24 root - INFO - Splitting the data into train and test
+
+[2024-03-01 00:00:39,628] 27 root - INFO - ------------ Models Training Completed ------------
+[2024-03-01 00:00:39,632] 46 root - INFO - Model: Linear Regression, R2 Score: 0.7313739454923454
+[2024-03-01 00:00:39,636] 46 root - INFO - Model: Lasso, R2 Score: 0.7267208424871054
+[2024-03-01 00:00:39,639] 46 root - INFO - Model: Ridge, R2 Score: 0.7313645173805028
+[2024-03-01 00:00:39,643] 46 root - INFO - Model: ElasticNet, R2 Score: 0.7279124847532851
+[2024-03-01 00:00:39,659] 46 root - INFO - Model: Random Forest Regression, R2 Score: 0.9083163593313764
+[2024-03-01 00:00:39,667] 46 root - INFO - Model: SVR, R2 Score: -0.10210557905639317
+[2024-03-01 00:00:39,672] 46 root - INFO - Model: KNN Regression, R2 Score: -0.022591018487807313
+[2024-03-01 00:00:39,672] 47 root - INFO - ------------ Model Train Completed ------------
+
+[2024-03-01 00:00:39,672] 53 root - INFO - Initializing the best Model from R2 Score
+[2024-03-01 00:00:39,672] 35 root - INFO - The best model is 'Random Forest Regression' with R2 score: '0.9083163593313764'
+[2024-03-01 00:00:39,686] 40 root - INFO - The best model 'Random Forest Regression' saved as 'model.pkl'
